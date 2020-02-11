@@ -64,11 +64,11 @@ OpenCore(简称 OC)是一个着眼于未来开源引导工具, 最初诞生于 H
 
 详细描述见：[OpenCore 官方文档 ](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf)、[[**黑果小兵的部落阁**] : 精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)
 
-### MAC OS 镜像
+### MacOS 镜像
 
 根据自己的EFI引导，下载合适的镜像（注意：CLOVER本身可以引导低版本的镜像，但不可以引导比自己高的版本）
 
-各版本镜像下载：[daliansky_macos](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/)、[黑果小兵]([https://blog.daliansky.net/categories/%E4%B8%8B%E8%BD%BD/%E9%95%9C%E5%83%8F/](https://blog.daliansky.net/categories/下载/镜像/))
+各版本镜像下载：[daliansky_macos](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/)、[黑果小兵](https://blog.daliansky.net/categories/下载/镜像/)
 
 ### KITS
 
