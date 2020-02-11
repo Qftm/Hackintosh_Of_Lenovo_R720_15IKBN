@@ -74,6 +74,13 @@ OpenCore(简称 OC)是一个着眼于未来开源引导工具, 最初诞生于 H
 
 黑果常用的工具（必不可少）
 
+云盘下载
+
+```
+链接：https://pan.baidu.com/s/1Xa_bLjv95Nb1PGdxOACWew 
+提取码：8e1e 
+```
+
 #### Tools For Windows
 
 ![截屏2020-02-11下午11.47.27](img/截屏2020-02-11下午11.47.27.png)
